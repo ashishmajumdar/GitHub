@@ -1,1 +1,2 @@
-Lab configurations for the various use cases tested in the EMEA lab
+
+This repository contains several OcNOS configurations for various deployment scenarios
